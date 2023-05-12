@@ -1,0 +1,38 @@
+* {
+    font-family: 'Lato', sans-serif; 
+    
+}
+
+.body-login {
+    text-align: center;
+}
+
+/*.iskgpt-login {
+    
+} */
+
+.form-login {
+    margin-top: -15%;
+    border: solid;
+    border-radius: 120px;
+
+}
+.email-login {
+    border-radius: 8px;
+    margin-top: 30px
+}
+
+.password-login {
+    border-radius: 8px;
+}
+
+.show-password-login {
+    display: flex;
+    margin-left: 44.5%
+}
+
+.button-login {
+    border-radius: 8px;
+    color: white;
+    background-color: red;
+}
